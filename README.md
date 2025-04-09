@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-###### illési te vakond geci
+###### © sigma, 2025
 <!--
 **csabasusu/csabasusu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
